@@ -14,7 +14,7 @@ Almost every single project will require a build to begin with, but after this i
 Do you want to:
 
 * upload your assets to a different place than your index.html?
-* push your index.html to redis S3?
+* push your index.html to redis or S3?
 * deploy your whole application to a SaaS platform like Firebase hosting?
 * gzip your assets before uploading them?
 * notify your team members of a successful deploy
